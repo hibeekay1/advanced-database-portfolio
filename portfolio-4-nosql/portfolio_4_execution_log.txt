@@ -1,0 +1,48 @@
+
+==============================================================================
+1. Creating Semi-Structured JSON Storage Table for Market Feeds & Client Portfolios
+==============================================================================
+
+PL/SQL procedure successfully completed.
+
+
+Table CLIENT_PORTFOLIO_PAYLOADS created.
+
+Table client_portfolio_payloads created successfully.
+
+==============================================================================
+2. Inserting Flexible JSON Document Payloads
+==============================================================================
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+Sample JSON document payloads inserted successfully.
+
+==============================================================================
+3. Querying Semi-Structured JSON Data Using SQL Operators (JSON_VALUE)
+==============================================================================
+Extracted Customer Risk Profile (JSON): MODERATE
+Extracted Market Feed - Ticker: IIMC_BLUECHIP | Price: NGN 1050.25
+
+
+PL/SQL procedure successfully completed.
+
+
+==============================================================================
+4. Creating a Native JSON Search Index for High-Performance NoSQL Querying
+==============================================================================
+Native JSON Search Index created successfully.
+
+
+PL/SQL procedure successfully completed.
+
+
+==============================================================================
+Portfolio 4 NoSQL & Advanced Data Models Script Completed Successfully.
+==============================================================================

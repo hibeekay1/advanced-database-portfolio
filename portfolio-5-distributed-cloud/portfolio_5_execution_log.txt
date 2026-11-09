@@ -1,0 +1,20 @@
+==============================================================================
+1. Simulating Distributed Database Link Setup (Oracle DB Links)
+==============================================================================
+Distributed Link Simulation: Primary node successfully linked to regional replica nodes.
+
+
+PL/SQL procedure successfully completed.
+
+==============================================================================
+2. Checking Distributed Replication & Node Health
+==============================================================================
+
+NODE_ID       NODE_RO NODE_S LAST_SYNC_TIME                     
+------------- ------- ------ -----------------------------------
+NODE_LAGOS_01 PRIMARY ONLINE 08-NOV-26 09.45.36.517231000 PM GMT
+NODE_ABUJA_02 REPLICA ONLINE 08-NOV-26 09.45.36.517231000 PM GMT
+
+==============================================================================
+Portfolio 5 Distributed Architecture Verification Completed Successfully.
+==============================================================================
