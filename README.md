@@ -1,6 +1,9 @@
 # MIT 8103 Advanced Database Systems - Portfolio Repository
 **Academic Session:** 2026/2027 First Semester  
-**Student Name:** [Your Name / Student ID]  
+**Student Name:** Ibukun Adejumo
+**Student ID:** 301904668
+**Matric Number:** 2026/A/MIT/0091
+**Email Address:** i.adejumo4668@miva.edu.ng
 **Selected Organisation:** Ibukun Investment Management Company (IIMC)  
 
 ---
